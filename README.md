@@ -36,7 +36,7 @@ Blueprint Workshop is a standalone Windows utility for Tom Clancy's Ghost Recon 
 
 ## Building from Source
 
-The source code and build instructions are provided in this repository for transparency, security review, and further development.
+For dependencies, compilation commands, and instructions for running Blueprint Workshop directly from source, see [BUILD.md](BUILD.md).
 
 ## Current Limitations
 
