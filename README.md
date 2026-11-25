@@ -49,14 +49,6 @@ The source code and build instructions are provided in this repository for trans
 
 The compiled Windows application is distributed through Nexus Mods.
 
-## Development
-
-Blueprint Workshop was created to overcome the limitations of weapon customization in Ghost Recon Breakpoint's Immersive Mode.
-
-Project concept, feature design, development direction, and in-game testing by coach_morgan.
-
-Code and user interface generated using AI under the creator's direction.
-
 ## Disclaimer
 
 Blueprint Workshop is an unofficial, community-created utility and is not affiliated with Ubisoft.
